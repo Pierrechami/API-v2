@@ -1,0 +1,3 @@
+<?php //App%255CEntity%255CLocations%2523getTenant
+
+return [PHP_INT_MAX, []];
