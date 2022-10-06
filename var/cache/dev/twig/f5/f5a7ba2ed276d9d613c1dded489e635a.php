@@ -382,6 +382,6 @@ class __TwigTemplate_97d801d56b26ab30898065f06c7e910e extends Template
 
 </body>
 </html>
-", "@ApiPlatform/SwaggerUi/index.html.twig", "/Users/ChaminadePierre/Desktop/API/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
+", "@ApiPlatform/SwaggerUi/index.html.twig", "/Users/ChaminadePierre/Desktop/API-v2/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
     }
 }
